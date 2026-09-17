@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use the code in this repository, please cite the associated publication when available."
+title: "Haplotype analysis of the 4.13-kb EPCAM deletion in Japanese Lynch syndrome families"
+authors:
+
+* family-names: "Yasuda"
+  given-names: "Jun"
