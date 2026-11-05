@@ -3,7 +3,7 @@ message: "If you use the code in this repository, please cite the associated pub
 title: "Haplotype analysis of the 4.13-kb EPCAM deletion in Japanese Lynch syndrome families"
 authors:
 
-- family-names: "Yasuda"
-  given-names:  "Jun"
+ - family-names: "Yasuda"
+   given-names:  "Jun"
 version: 1.0.1
 date-released: 2026-11-05
